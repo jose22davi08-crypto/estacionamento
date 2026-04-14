@@ -5,5 +5,7 @@ import java.util.ArrayList;
 public class Estacionamento {
     private ArrayList<Vaga> vagas;
 
-    public Estacionamento(int totalDeVagas)
+    public Estacionamento(int totalDeVagas){
+
+    }
 }
